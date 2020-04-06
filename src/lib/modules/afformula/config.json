@@ -1,0 +1,13 @@
+{
+  "id": "afformula",
+  "title": "Автопрокачка",
+  "icon": "fa-sliders",
+  "class_name":"AFFormula",
+  "is_enabled": true,
+  "type":"toolbutton",
+  "places":{
+      "toolbutton"  : true
+  },  
+  "initial_load":true,
+  "permissions" : ["IsAFSaveAllow"]
+}
